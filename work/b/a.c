@@ -3,7 +3,7 @@
 int main (void){
     int a, b, c;
     a=1;
-    b=3;
+    b=5;
     c = a+b;
     printf(c);
     return 0;
